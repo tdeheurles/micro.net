@@ -1,4 +1,4 @@
-FROM         ubuntu:14.04.3
+FROM         ubuntu:14.04.2
 MAINTAINER   Thibault Deheurles <tdeheurles@gmail.com>
 
 RUN apt-get update                                                                               && \
